@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="Kamarad">
+      <implementation-class>ie.ncirl.Kamarad.Kamarad</implementation-class>
+    </service>
+    <service name="Account">
+      <implementation-class>ie.ncirl.Kamarad.Account</implementation-class>
+    </service>
+    <service name="TopUpWS">
+      <implementation-class>ie.ncirl.Kamarad.TopUpWS</implementation-class>
+    </service>
+    <service name="ExtrasWS">
+      <implementation-class>ie.ncirl.Kamarad.ExtrasWS</implementation-class>
+    </service>
+    <service name="Extras2WS">
+      <implementation-class>ie.ncirl.Kamarad.Extras2WS</implementation-class>
+    </service>
+    <service name="ExtraOption1">
+      <implementation-class>ie.ncirl.Kamarad.ExtraOption1</implementation-class>
+    </service>
+    <service name="ExtraOption2">
+      <implementation-class>ie.ncirl.Kamarad.ExtraOption2</implementation-class>
+    </service>
+    <service name="ExtraOption3">
+      <implementation-class>ie.ncirl.Kamarad.ExtraOption3</implementation-class>
+    </service>
+    <service name="Extras4">
+      <implementation-class>ie.ncirl.Kamarad.Extras4</implementation-class>
+    </service>
+    <service name="Extras5">
+      <implementation-class>ie.ncirl.Kamarad.Extras5</implementation-class>
+    </service>
+    <service name="GetBalance">
+      <implementation-class>ie.ncirl.Kamarad.GetBalance</implementation-class>
+    </service>
+  </services>
+  <clients/>
+</jax-ws>
